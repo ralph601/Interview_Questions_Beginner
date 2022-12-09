@@ -4,4 +4,4 @@
 1. CS(Computer Scinece)
 2. Java
 3. Python
-4. [Front-End](./FrontEnd)
+4. [Front-End](./Frontend)
